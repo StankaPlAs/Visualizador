@@ -1,0 +1,24 @@
+#vis{
+	width: 900px;
+	margin: 0 auto;
+}
+#visualizador {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+#controlI {
+	float: left;
+}
+#controlD {
+	float: right;
+}
+#reproductor {
+	width: 510px;
+    margin-top: 20px;
+    padding-left: 701px;
+}
+div img {
+    cursor: pointer;
+}
+
