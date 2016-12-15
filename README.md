@@ -1,2 +1,2 @@
 # Visualizador
-Simple image viewer programmed with JavaScript as class practice.
+Simple image viewer programmed with JavaScript as school practice.
